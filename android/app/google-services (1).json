@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685883960151",
+    "project_id": "pdf-practice-f5e7c",
+    "storage_bucket": "pdf-practice-f5e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685883960151:android:0e5d254fd3cbbfeba92c12",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9dtAOMvqd_SgNsSK65UYRqimgEKaBw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
